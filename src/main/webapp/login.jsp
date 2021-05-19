@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>:: New Login ::</title>
+<title>:: New Login Screen::</title>
 </head>
 <body>
 <script>
