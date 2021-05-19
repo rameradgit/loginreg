@@ -12,7 +12,7 @@
   <td align="left"><h1>Login Success.....</h1></td>
   <td align="right"> 
   <h2>
-   Hi, <%= request.getAttribute("username") %>
+   Hi, Admin
   </h2>
   </td>
  </tr>
