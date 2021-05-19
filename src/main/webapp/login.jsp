@@ -27,9 +27,9 @@ return false;
   <div align="center">
   <h1>
 <form name="myform" method="post" action="http://democicd-732752620.us-east-1.elb.amazonaws.com/login/home.jsp" onsubmit="return validateform()" >
-Name: <input type="text" name="name"><br/>
-Password: <input type="password" name="password"><br/>
-<div id="error"></div>
+UserName: <input type="text" name="name"><br/> </br> </br>
+Password: <input type="password" name="password"><br/> </br> </br>
+<div id="error"></div> </br> </br>
 <input type="submit" value="register">
 </form>
 </h1>
