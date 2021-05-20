@@ -14,12 +14,7 @@ body {
 <body>
 <table width="100%">
  <tr bgcolor=F9F9F3>
-  <td align="left"><h1>Login Success.....</h1></td>
-  <td align="right"> 
-  <h2>
-   Hi, Admin
-  </h2>
-  </td>
+     <td align="left"><h1>Login Success.....</h1> </br> Hi, Admin</td>
  </tr>
  <tr>
   <td colspan="2"><h1 align="center"></br></br>comming soon...., website under construction</h1></td>
