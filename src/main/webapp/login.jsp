@@ -31,13 +31,15 @@ return false;
 </br> </br> </br>
   <div align="center">
   <h1>
-  EXPLEO GROUP CI/CD/CT DEMO
-    </br> </br> </br>
+  EXPLEO GROUP 
+  </br> </br> </br>
+  CI/CD/CT DEMO
+  </br> </br> </br>
 <form name="myform" method="post" action="http://democicd-732752620.us-east-1.elb.amazonaws.com/login/home.jsp" onsubmit="return validateform()" >
 UserName: <input type="text" name="name"><br/> </br> </br>
 Password: <input type="password" name="password"><br/> </br> </br>
-<div id="error"></div> </br> </br>
-<input type="submit" value="register">
+<div id="error"></div> </br>
+<input type="submit" value="Submit">
 </form>
 </h1>
 </div>
