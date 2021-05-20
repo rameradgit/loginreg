@@ -32,6 +32,7 @@ return false;
   <div align="center">
   <h1>
   EXPLEO GROUP CI/CD/CT DEMO
+    </br> </br> </br>
 <form name="myform" method="post" action="http://democicd-732752620.us-east-1.elb.amazonaws.com/login/home.jsp" onsubmit="return validateform()" >
 UserName: <input type="text" name="name"><br/> </br> </br>
 Password: <input type="password" name="password"><br/> </br> </br>
