@@ -3,7 +3,7 @@
 <meta charset="ISO-8859-1">
 <title>:: New Login Screen::</title>
 </head>
-<body>
+<body background-image: url('empleo.jfif')>
 <script>
 function validateform(){
 var name=document.myform.name.value;
