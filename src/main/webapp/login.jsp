@@ -1,9 +1,14 @@
 <html>
 <head>
+<style>
+body {
+  background-image: url('visuel2.png');
+}
+</style>
 <meta charset="ISO-8859-1">
 <title>:: New Login Screen::</title>
 </head>
-<body background-image: url('empleo.jfif')>
+<body>
 <script>
 function validateform(){
 var name=document.myform.name.value;
