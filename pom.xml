@@ -4,7 +4,7 @@
   <groupId>com.jee.spring</groupId>
   <artifactId>login</artifactId>
   <packaging>war</packaging>
-  <version>1.${v}</version>
+  <version>1.0</version>
   <name>jee_login_registration Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
